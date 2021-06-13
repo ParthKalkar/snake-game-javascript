@@ -16,7 +16,8 @@ Need to have a browser (Chrome, Mozilla, Safari, Opera, etc)
 # Code Snippets - 
 1. CSS - 
 
-![image](https://user-images.githubusercontent.com/50231750/121823934-23fd1b80-ccb1-11eb-9180-bd07328c5004.png)
+![image](https://user-images.githubusercontent.com/50231750/121824040-dcc35a80-ccb1-11eb-9f35-7537ee93ab1f.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/50231750/121823943-2fe8dd80-ccb1-11eb-9524-568383b37931.png)
